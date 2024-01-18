@@ -1,5 +1,6 @@
 {
     "editor.lineHeight": 30,
     "editor.wordWrapColumn": 60,
-    "editor.wordWrap": "wordWrapColumn"
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.unicodeHighlight.ambiguousCharacters": false
 }
