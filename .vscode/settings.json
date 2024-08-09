@@ -2,5 +2,7 @@
     "editor.lineHeight": 30,
     "editor.wordWrapColumn": 60,
     "editor.wordWrap": "wordWrapColumn",
-    "editor.unicodeHighlight.ambiguousCharacters": false
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.autoClosingBrackets": "always",
+    "editor.acceptSuggestionOnEnter": "off"
 }
