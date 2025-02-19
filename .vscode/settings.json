@@ -4,5 +4,6 @@
     "editor.wordWrap": "wordWrapColumn",
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.autoClosingBrackets": "always",
-    "editor.acceptSuggestionOnEnter": "off"
+    "editor.acceptSuggestionOnEnter": "off",
+    "marscode.chatLanguage": "cn"
 }
