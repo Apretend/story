@@ -1,9 +1,10 @@
 {
     "editor.lineHeight": 30,
     "editor.wordWrapColumn": 60,
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "on",
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.autoClosingBrackets": "always",
     "editor.acceptSuggestionOnEnter": "off",
-    "marscode.chatLanguage": "cn"
+    "marscode.chatLanguage": "cn",
+    "diffEditor.wordWrap": "on"
 }
